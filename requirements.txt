@@ -1,3 +1,4 @@
+nbgitpuller 
 numpy
 scipy
 matplotlib
@@ -11,3 +12,4 @@ pyicu
 mendeleev
 sympy
 seaborn
+
