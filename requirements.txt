@@ -1,1 +1,11 @@
-numpy==1.14.5
+numpy
+scipy
+matplotlib
+colorama
+xlrd
+openpyxl
+Jinja2
+statsmodels
+natsort
+pyicu
+mendeleev
