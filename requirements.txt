@@ -9,3 +9,5 @@ statsmodels
 natsort
 pyicu
 mendeleev
+sympy
+seaborn
